@@ -17,7 +17,10 @@ const projectschema = new mongoose.Schema({
     type: String,
     required: [true, "project status is required"],
   },
-  Description: String,
+  Description: {
+    type: String,
+    required: [true, "project description is required"],
+  },
 });
 const Project = mongoose.model("Project", projectschema);
 

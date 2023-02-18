@@ -40,6 +40,7 @@ export const registerUser = asyncHandler(async (req, res) => {
     address: req.body.address,
     onLeave: req.body.onLeave,
     password: req.body.password,
+    
   });
   await User.collection.insertOne(user).then(
     (result) => {
