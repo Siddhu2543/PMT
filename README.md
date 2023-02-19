@@ -22,8 +22,7 @@
 
 <p>The project can directly be running by downloading this repository, just follow the following steps after downloading the repository:</p>
 
-<ol>
-<li>Install required dependencies</li>
+Install required dependencies
 ```
 cd backend
 npm install
@@ -31,5 +30,3 @@ npm install
 cd ../frontend
 npm install
 ```
-</ol>
-<hr>
