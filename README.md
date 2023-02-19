@@ -7,3 +7,12 @@
 
 <p>We have created this project with a view to overcome the above requirements. Our project has all the basic to intermediate functionalities that an organization would need in order to manage a project tasks and employees as well as project progress.</p>
 <hr>
+
+<h3>Technology Used</h3>
+
+<ol>
+  <li>Mongo DB (Atlas)-- <i>An online NoSQL Database</i></li>
+  <li>ExpressJS-- <i>For Backend APIs and Server Creation</i></li>
+  <li>ReactJS-- <i>Frontend Implementation</i></li>
+  <li>NodeJS-- <i>Base to run JS Web Application</i></li>
+</ol>
