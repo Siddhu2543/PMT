@@ -2,7 +2,7 @@
 
 .background{
     /* background-color: #282c34; */
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364) !important;
+    background: lightgrey !important;
     background-size: 100% 100%;
     width: 100vw;
     height: 100vh;
@@ -14,7 +14,7 @@
 
 .background2{
     /* background-color: #282c34; */
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364) !important;
+    background: lightgrey !important;
     background-size: 100% 100%;
     width: 100vw;
     height: 100vh;
@@ -36,32 +36,32 @@
 
 
 .modalHeader{
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #dad9d7;
-    border: 1px solid #dad9d7;
+    background: lightgrey;
+    color: #000;
+    border: 1px solid #000;
     border-bottom: none;
 }
 
 .modalBody{
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #dad9d7;
-    border: 1px solid #dad9d7;
+    background: lightgrey;
+    color: #000;
+    border: 1px solid #000;
     border-top: none;
 }
 
 .modalBodyStatic{
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #dad9d7;
-    border: 1px solid #dad9d7;
+    background: lightgrey;
+    color: #000;
+    border: 1px solid #000;
     border-top: none;
     border-bottom: none;
 }
 
 
 .modalFooter{
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #dad9d7;
-    border: 1px solid #dad9d7;
+    background: lightgrey;
+    color: #000;
+    border: 1px solid #000;
     border-top: none;
 }
 
@@ -79,7 +79,7 @@
 .modalBody::-webkit-scrollbar-thumb {
     background-color: #f09204;    /* color of the scroll thumb */
     border-radius: 20px;       /* roundness of the scroll thumb */
-    border: 3px solid #dad9d7;  /* creates padding around scroll thumb */
+    border: 3px solid #000;  /* creates padding around scroll thumb */
 }
 
 
@@ -96,5 +96,10 @@
 .modalBodyStatic::-webkit-scrollbar-thumb {
     background-color: #f09204;    /* color of the scroll thumb */
     border-radius: 20px;       /* roundness of the scroll thumb */
-    border: 3px solid #dad9d7;  /* creates padding around scroll thumb */
+    border: 3px solid #000;  /* creates padding around scroll thumb */
 }
+
+:root {
+    --fc-border-color: black;
+    --fc-daygrid-event-dot-width: 5px;
+  }

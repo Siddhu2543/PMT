@@ -1,122 +1,123 @@
 
 .submitBtn{
   /* border: 2px solid red !important; */
-  background-color: #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  border: red;
   margin-left: 45%;
   margin-right: 50%;
   color: black;
 }
 
 .submitBtn:hover{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red; 
   color: black;
 }
 
 .submitBtn:focus{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red;
+  border: red;
   color: black;
 }
 
 
 .updateBtn{
-  background-color: #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  border: red;
   width: 100%;
   color: black ;
 }
 
 
 .updateBtn:hover{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red; 
   color: black ;
 }
 
 .updateBtn:focus{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red;
+  border: red;
   color: black ;
 }
 
 .addCatBadge{
   cursor: pointer;
   float: right;
-  background-color: #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  border: red;
   margin-top: -8px;
   color: black;
 }
 
 
 .addCatBadge:hover{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e; 
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red; 
+  border: red;
   color: black;
 }
 
 .addCatBadge:focus{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red;
+  border: red;
   color: black;
 }
 
 .categoryBtn{
-  background-color: #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  border: red;
   color: black;
 }
 
 .categoryBtn:hover{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e; 
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red; 
+  border: red;
   color: black;
 }
 
 .categoryBtn:focus{
-  background-color: #f0ae4e;
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
-  border: #f0ae4e;
+  background-color: red;
+  box-shadow: 0px 0px 10px 1px red;
+  border: red;
   color: black;
 }
 
 
 
 .trashBtn{
-  color: #f0ae4e !important;
+  color: red !important;
   float: right !important;
   cursor: pointer;
 
 }
 
 .trashBtn:hover{
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  box-shadow: 0px 0px 10px 1px red;
 }
 
 
 .formInput{
   background-color: transparent;
-  color: #dad9d7;
-  border-radius: 25px 10px 25px 10px ;
+  color: #000;
+  border-radius: 25px 10px 25px 10px;
+  border-color: #000;
 }
 
 
 .formInput:focus{
   background-color: transparent;
   border-radius: 25px 10px 25px 10px ;
-  box-shadow: 0px 0px 10px 1px #f0ae4e;
-  border: #f0ae4e;
-  color: #dad9d7;
+  box-shadow: 0px 0px 10px 1px red;
+  border: red;
+  color: #000;
 }
 
 .listOption{
-  background-color: #dad9d7 !important;
+  background-color: #000 !important;
   color: black;
 }

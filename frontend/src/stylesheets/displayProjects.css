@@ -1,0 +1,228 @@
+.titleSelection{
+    text-align: center;
+}
+
+.projectListItem{
+    /* border: 1px solid rgba(13,110,253,255); */
+    border-radius: 10px !important;
+}
+
+.selectedListItem{
+    text-align: center;
+    cursor: pointer;
+    background-color: red;;
+    color: black !important;
+    border: 1px solid red;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+.selectedListItem:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: 1px solid red;
+}
+  
+.selectedListItem:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: 1px solid red;
+}
+
+.warningTxt{
+    color: red;
+}
+
+.title2{
+    margin-left: auto;
+    width: 30%;
+    word-break:normal;
+    text-align: justify;
+}
+
+.assignBtn{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.assignBtn:hover{
+    box-shadow: 0px 0px 10px 1px red; 
+    border-radius: 25px 10px 25px 10px ;
+}
+
+.listPhase{
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+
+
+.removeBtnPhase{
+    cursor: pointer;
+    color: red;
+    float: right;
+    margin-top: 5px;
+}
+
+.removeBtnPhase:hover{
+   
+    box-shadow: 0px 0px 10px 1px red; 
+}
+
+
+
+.phaseSaveBtn{
+    background-color: red;;
+    color: black;
+    width: 8rem;
+    margin: auto;
+    border: 1px solid red;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.phaseSaveBtn:hover{
+    background-color: red;
+    border: 1px solid red;
+    box-shadow: 0px 0px 10px 1px red; 
+    color: black;
+  }
+  
+.phaseSaveBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: red;
+    color: black;
+}
+
+
+
+.saveBtn{
+    background-color: red;;
+    color: black;
+    width: 40%;
+    margin: auto;
+    border: 1px solid red;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.saveBtn:hover{
+    background-color: red;
+    border: 1px solid red;
+    box-shadow: 0px 0px 10px 1px red; 
+    color: black;
+  }
+  
+.saveBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: red;
+    color: black;
+}
+
+.completedBtn{
+    float: right;
+    color: red;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.completedBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: red;
+    color: black;
+}
+
+
+.notificationImage{
+    width: 20%;
+    border-radius: 50px !important;
+}
+
+
+.projectListItem{
+    background-color: transparent !important;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+}
+
+
+.projectListItem:hover{
+    border: 1px solid red;
+    box-shadow: 0px 0px 10px 1px red;
+    cursor: pointer;
+}
+
+
+.dropBtn{
+    cursor: pointer;
+    background-color: red;;
+    color: black !important;
+    border: 1px solid red;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.dropBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: 1px solid red;
+}
+  
+.dropBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: 1px solid red;
+}
+
+
+.dropDownCont{
+    background-color: #000;
+}
+
+
+.memberLists{
+    background-color: transparent !important;
+    color: #000;
+}
+
+
+.toastMain{
+    background-color: transparent;
+    border: 1px solid #000;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+}
+
+.toastHeader{
+    background-color: transparent;
+    color: #000;
+}
+
+
+.downloadBtn{
+    cursor: pointer;
+    background-color: red;;
+    color: black !important;
+    border: 1px solid red;
+    float: right;
+}
+
+
+.downloadBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: 1px solid red;
+}
+  
+.downloadBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: 1px solid red;
+}
