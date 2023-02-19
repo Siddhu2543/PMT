@@ -24,7 +24,7 @@
 
 <ol>
 <li>Install required dependencies</li>
-```node
+```
 cd backend
 npm install
 
