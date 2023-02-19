@@ -4,25 +4,25 @@
 }
 
 .todosList{
-    /* background: linear-gradient(to right, #0f2027, #203a43, #2c5364); */
+    /* background: lightgrey; */
     background-color: transparent;
-    color:#dad9d7;
+    color:#000;
 }
  
 
 .todosContainer{
 
-    border-top:1px solid #dad9d7 ;
+    border-top:1px solid #000 ;
     margin-top: 5%;
     margin-left: 0% !important;
 }
 
 .todoOffCanvas{
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #dad9d7;
+    background: lightgrey;
+    color: #000;
 }
 
 .badgeList{
     background-color: transparent !important;
-    color: #dad9d7;
+    color: #000;
 }

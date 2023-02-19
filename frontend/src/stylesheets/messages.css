@@ -1,0 +1,102 @@
+.messagesModel{
+    font-weight: bold;
+    text-decoration: solid;
+}
+
+
+.profileMessages{
+    background-color: transparent;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.profileMessages:hover{
+    border: 1px solid red;
+    box-shadow: 0px 0px 10px 1px red;
+    cursor: pointer;
+}
+
+
+.modalBodyMsg{
+    background: lightgrey;
+    color: #000;
+    border: 1px solid #000;
+    border-top: none;
+    border-bottom: none;
+    height: 70vh;
+    overflow-y: scroll;
+}
+
+/* .msgCont{
+    background-color: transparent;
+    border: 1px solid red;
+    overflow: auto;
+} */
+
+
+
+.myMsgs{
+    background-color: transparent;
+    padding: 15px 0px 15px 0px;
+    align-self: flex-end;
+    border: none;
+    width: 80%;
+}
+
+.otherMsgs{
+    background-color: transparent;
+    padding: 15px 20px 15px 0px;
+    align-self: flex-start;  
+    border: none;
+    width: 80%;  
+}
+
+.msgtxt{
+    font-style: italic;
+    border: 1px solid #000;
+    border-radius: 25px 10px 25px 10px ;
+    margin: 0%;
+    padding: 7px 7px 7px 7px;
+    background-color: darkgrey;
+}
+
+
+.refreshBtn{
+    background-color: red;
+    border: red;
+    color: black;
+    margin-left: 40%;
+}
+
+.refreshBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: red;
+    color: black;
+}
+  
+.refreshBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: red;
+    color: black;
+}
+
+.refreshIcon{
+    padding-top: 5px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
