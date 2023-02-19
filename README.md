@@ -3,4 +3,7 @@
 
 <h3>Introduction</h3>
 
-<p></p>
+<p>Project management is one of the high-responsibility tasks in modern organizations. Project management is used in many types of projects ranging from software development to developing the next generation fighter aircrafts.In order to execute a project successfully, the project manager or the project management team should be supported by a set of tools.</p>
+
+<p>We have created this project with a view to overcome the above requirements. Our project has all the basic to intermediate functionalities that an organization would need in order to manage a project tasks and employees as well as project progress.</p>
+<hr>
