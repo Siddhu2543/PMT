@@ -16,3 +16,20 @@
 <li>ReactJS-- <i>Frontend Implementation</i></li>
 <li>NodeJS-- <i>Base to run JS Web Application</i></li>
 </ol>
+<hr>
+
+<h3>Project Setup</h3>
+
+<p>The project can directly be running by downloading this repository, just follow the following steps after downloading the repository:</p>
+
+<ol>
+<li>Install required dependencies</li>
+```node
+cd backend
+npm install
+
+cd ../frontend
+npm install
+```
+</ol>
+<hr>
