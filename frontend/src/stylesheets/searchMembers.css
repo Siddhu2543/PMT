@@ -1,0 +1,62 @@
+.searchModel{
+    text-decoration: solid;
+}
+
+.searchBtn{
+    cursor: pointer;
+}
+
+.searchIcon{
+    color: black
+}
+
+
+.sendRequestBtn{
+    cursor: pointer;
+    background-color: red !important;
+    color: black !important;
+    border: 1px solid red !important;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.sendRequestBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: 1px solid red;
+}
+  
+.sendRequestBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: 1px solid red;
+}
+
+
+
+.memberSearchBtn{
+    cursor: pointer;
+    background-color: red !important;
+    color: black !important;
+    width: 10rem;
+    text-align: center;
+    margin: auto;
+    border: 1px solid red !important;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+
+.memberSearchBtn:hover{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red; 
+    border: 1px solid red;
+}
+  
+.memberSearchBtn:focus{
+    background-color: red;
+    box-shadow: 0px 0px 10px 1px red;
+    border: 1px solid red;
+}
+
+
