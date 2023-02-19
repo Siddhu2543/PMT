@@ -11,8 +11,8 @@
 <h3>Technology Used</h3>
 
 <ol>
-  <li>Mongo DB (Atlas)-- <i>An online NoSQL Database</i></li>
-  <li>ExpressJS-- <i>For Backend APIs and Server Creation</i></li>
-  <li>ReactJS-- <i>Frontend Implementation</i></li>
-  <li>NodeJS-- <i>Base to run JS Web Application</i></li>
+<li>Mongo DB (Atlas)-- <i>An online NoSQL Database</i></li>
+<li>ExpressJS-- <i>For Backend APIs and Server Creation</i></li>
+<li>ReactJS-- <i>Frontend Implementation</i></li>
+<li>NodeJS-- <i>Base to run JS Web Application</i></li>
 </ol>
