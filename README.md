@@ -32,11 +32,20 @@ cd ../frontend
 npm install
 ```
 
+Run Project
+```
+cd backend
+npm start
+
+cd frontend
+npm start
+```
+
 <hr>
 <h3> Project Functionalities <h3>
   
 <ol>
-  <li>Singn In/Sign Up/Sign Out</li>
+  <li>Sign In/Sign Up/Sign Out</li>
   <li>Create a To-do list</li>
   <li>Create/Update a Project</li>
   <li>Add/Update phases in the project</li>
